@@ -15,7 +15,7 @@ UI
 
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
-| git status   | git status     | git status    |
+| React Rainbow Components   | React Rainbow is a collection of components that will reliably help you build your application in a snap. | Rainbow    |
 | git diff     | git diff       | git diff      |
 
 
