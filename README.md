@@ -30,6 +30,7 @@ UI Libraries
 | :---:        |     :---:     |        :---: |
 | Reshot | Free Icons & Illustrations | [Reshot](https://www.reshot.com/) |
 | Material Design | Google’s open-source design system. Design and build beautiful usable products. | [Material Design](https://m3.material.io/) |
+| removebg | Remove image background online | [removebg](https://www.remove.bg/) |
 
 
 # productivity
