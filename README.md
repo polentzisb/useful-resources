@@ -24,14 +24,7 @@ UI Libraries
 
 
 
-Img edit
-
-| Name | Description | Link |
-| :---:        |     :---:     |        :---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
-design tools(?)
+# IMG & design tools(?)
 
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
