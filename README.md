@@ -1,4 +1,4 @@
-# Useful-resources 
+# Useful-resources :star2:
 In this repository will be useful resources 
 
 *UNDER CONSTRUCTION
