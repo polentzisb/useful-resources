@@ -23,6 +23,7 @@ UI Libraries
 | RoughNotation | A small JavaScript library to create and animate annotations on a web page| [RoughNotation](https://roughnotation.com/)|
 | react-hot-toast |Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.| [react-hot-toast](https://react-hot-toast.com/)|
 | Framer Motion |Framer Motion is a animation library. A production-ready motion library for React.| [Framer Mortion](https://www.framer.com/motion/)|
+| animejs |Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.| [animejs](https://animejs.com/)|
 
 
 
