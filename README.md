@@ -46,7 +46,7 @@ references
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
 | She Codes Coding Tools     | 1.671 CSS color palettes for ideas  | [Color Palettes](https://palettes.shecodes.io/) |
-| git diff     | git diff       | git diff      |
+| ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt] (https://colorhunt.co/)|
 
 
 
