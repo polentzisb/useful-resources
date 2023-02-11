@@ -20,8 +20,7 @@ UI Libraries
 | Semantic UI | Semantic is a UI component framework based around useful principles from natural language.| [Semantic UI](https://semantic-ui.com/) |
 | Headless UI | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.| [Headless UI](https://headlessui.com/)|
 | Chakra UI | Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.| [Chakra UI](https://chakra-ui.com/)|
-| Headless UI | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.| [Headless UI](https://headlessui.com/)|
-
+| RoughNotation | A small JavaScript library to create and animate annotations on a web page| [RoughNotation](https://roughnotation.com/)|
 
 
 # IMG & design tools(?)
