@@ -36,7 +36,7 @@ UI Libraries
 # productivity
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
-| git status   | git status     | git status    |
+| Excalidraw  | Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted.| [Excalidraw](https://excalidraw.com/)    |
 | git diff     | git diff       | git diff      |
 
 
