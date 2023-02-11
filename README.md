@@ -3,14 +3,6 @@ In this repository will be useful resources
 
 *UNDER CONSTRUCTION
 
-UI Libraries
-
-| Name | Description | Link |
-| :---:        |     :---:     |        :---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
-
 # UI Libraries
 
 | Name | Description | Link |
