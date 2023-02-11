@@ -29,7 +29,7 @@ UI Libraries
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
 | Reshot | Free Icons & Illustrations | [Reshot](https://www.reshot.com/) |
-| git diff     | git diff       | git diff      |
+| Material Design | Google’s open-source design system. Design and build beautiful usable products. | [Material Design](https://m3.material.io/) |
 
 
 # productivity
