@@ -50,7 +50,7 @@ UI Libraries
 | ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt](https://colorhunt.co/)|
 | Growth.Design | Level up your product skills. Case Studies-Psychology of Design | [Growth.Design](https://growth.design/)|
 | Behance | Online platform to showcase & discover creative work.  | [Behance](https://www.behance.net/)|
-| Dribbble | Level up your product skills. Case Studies-Psychology of Design | [Growth.Design](https://growth.design/)|
+| Dribbble | Dribbble is an online community for showcasing user-made artwork. | [Dribbble](https://dribbble.com/)|
 
 
 
