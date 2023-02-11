@@ -21,6 +21,7 @@ UI Libraries
 | Headless UI | Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.| [Headless UI](https://headlessui.com/)|
 | Chakra UI | Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.| [Chakra UI](https://chakra-ui.com/)|
 | RoughNotation | A small JavaScript library to create and animate annotations on a web page| [RoughNotation](https://roughnotation.com/)|
+| react-hot-toast |Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.| [react-hot-toast](https://react-hot-toast.com/)|
 
 
 # IMG & design tools(?)
