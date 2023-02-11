@@ -44,7 +44,7 @@ UI Libraries
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
 | She Codes Coding Tools     | 1.671 CSS color palettes for ideas  | [Color Palettes](https://palettes.shecodes.io/) |
-| ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt] (https://colorhunt.co/)|
+| ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt](https://colorhunt.co/)|
 
 
 
