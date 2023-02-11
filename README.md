@@ -40,6 +40,8 @@ UI Libraries
 | :---:        |     :---:     |        :---: |
 | Excalidraw  | Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted.| [Excalidraw](https://excalidraw.com/)    |
 | Pomofocus     | Online pomodoro timer.  | [Pomofocus](https://pomofocus.io/) |
+| Notion  | Notion is a single space where you can think, write, and plan. Capture thoughts and manage projects. | [Notion](https://www.notion.so) |
+| Obsidian | Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.  | [Obsidian](https://obsidian.md/) |
 
 
 # references
