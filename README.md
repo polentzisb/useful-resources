@@ -51,5 +51,8 @@ In this repository will be useful resources for development
 | Dribbble | Dribbble is an online community for showcasing user-made artwork. | [Dribbble](https://dribbble.com/)|
 
 
+# browser extensions
 
-
+| Name | Description | Link |
+| :---:        |     :---:     |        :---: |
+| She Codes Coding Tools     | 1.671 CSS color palettes for ideas  | [Color Palettes](https://palettes.shecodes.io/) |
