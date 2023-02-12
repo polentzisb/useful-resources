@@ -31,6 +31,7 @@ In this repository will be useful resources for development
 | Randoma11y | Random color generator. | [Randoma11y](https://randoma11y.com/)|
 | She Codes Coding Tools     | 1.671 CSS color palettes for ideas  | [Color Palettes](https://palettes.shecodes.io/) |
 | ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt](https://colorhunt.co/)|
+| fffuel | fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds | [fffuel](https://fffuel.co/)|
 
 
 # productivity
