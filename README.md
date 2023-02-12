@@ -1,5 +1,5 @@
 # useful-resources :star2:
-In this repository will be useful resources 
+In this repository will be useful resources for development
 
 *UNDER CONSTRUCTION
 
@@ -37,6 +37,7 @@ In this repository will be useful resources
 | Pomofocus     | Online pomodoro timer.  | [Pomofocus](https://pomofocus.io/) |
 | Notion  | Notion is a single space where you can think, write, and plan. Capture thoughts and manage projects. | [Notion](https://www.notion.so) |
 | Obsidian | Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files.  | [Obsidian](https://obsidian.md/) |
+| Figma | Browsed based collaborative user interface design tool.  | [Figma](https://www.figma.com) |
 
 
 # references
