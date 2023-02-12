@@ -28,6 +28,9 @@ In this repository will be useful resources for development
 | removebg | Remove image background online | [removebg](https://www.remove.bg/) |
 | faviconio | Quickly generate your favicon from text, image, or choose from hundreds of emojis.  | [faviconio](https://favicon.io/) |
 | PineTools | Onliine Tools for images.  | [PineTools](https://pinetools.com) |
+| Randoma11y | Random color generator. | [Randoma11y](https://randoma11y.com/)|
+| She Codes Coding Tools     | 1.671 CSS color palettes for ideas  | [Color Palettes](https://palettes.shecodes.io/) |
+| ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt](https://colorhunt.co/)|
 
 
 # productivity
@@ -44,12 +47,11 @@ In this repository will be useful resources for development
 
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
-| She Codes Coding Tools     | 1.671 CSS color palettes for ideas  | [Color Palettes](https://palettes.shecodes.io/) |
-| ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt](https://colorhunt.co/)|
 | Growth.Design | Level up your product skills. Case Studies-Psychology of Design | [Growth.Design](https://growth.design/)|
 | Behance | Online platform to showcase & discover creative work.  | [Behance](https://www.behance.net/)|
 | Dribbble | Dribbble is an online community for showcasing user-made artwork. | [Dribbble](https://dribbble.com/)|
-| Randoma11y | Random color generator. | [Randoma11y](https://randoma11y.com/)|
+| The Style of Scarcity | A catalogue of the world’s most prestigious brands. | [The Style of Scarcity](https://www.styleofscarcity.com/)|
+
 
 
 
