@@ -32,6 +32,8 @@ In this repository will be useful resources for development
 | She Codes Coding Tools     | 1.671 CSS color palettes for ideas  | [Color Palettes](https://palettes.shecodes.io/) |
 | ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt](https://colorhunt.co/)|
 | fffuel | fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds | [fffuel](https://fffuel.co/)|
+| Tabbied | Doodle with generated patterns | [Tabbied](https://tabbied.com/)|
+
 
 
 # productivity
