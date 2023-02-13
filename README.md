@@ -65,3 +65,4 @@ In this repository will be useful resources for development
 | :---:        |     :---:     |   :---: | 
 | Wappalyzer | Find out the technology stack of any website.| [Wappalyzer](https://www.wappalyzer.com/) |
 | CSSViewer | A simple CSS property viewer.| [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en) |
+| ColorZilla | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies. | [ColorZilla](https://www.colorzilla.com/) |
