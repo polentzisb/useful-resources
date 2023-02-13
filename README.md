@@ -66,8 +66,8 @@ In this repository will be useful resources for development
 | httpster | Web design inspiration from all over the world. | [httpster](https://httpster.net/)|
 | DesignVault | Design Inspiration & UI Patterns From Real Products. | [DesignVault](https://designvault.io/)|
 | the component gallery | Reference for anyone building component-based user interfaces | [the component gallery](https://component.gallery/)|
-| httpster | Web design inspiration from all over the world. | [httpster](https://httpster.net/)|
-| httpster | Web design inspiration from all over the world. | [httpster](https://httpster.net/)|
+| Muzli Search | Web-wide search engine for design inspiration. | [Muzli Search](https://search.muz.li/)|
+| CollectUI | A platform for your daily inspiration collected from daily ui & beyond | [CollectUI](https://collectui.com/)|
 
 
 
