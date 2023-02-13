@@ -16,6 +16,7 @@ In this repository will be useful resources for development
 | react-hot-toast |Smoking hot Notifications for React. Lightweight, customizable and beautiful by default.| [react-hot-toast](https://react-hot-toast.com/)|
 | Framer Motion |Framer Motion is a animation library. A production-ready motion library for React.| [Framer Mortion](https://www.framer.com/motion/)|
 | animejs |Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.| [animejs](https://animejs.com/)|
+| Zdog | Round, flat, designer-friendly pseudo-3D engine for canvas & SVG.| [Zdog](https://zzz.dog/) |
 
 
 
