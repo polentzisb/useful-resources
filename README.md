@@ -61,6 +61,6 @@ In this repository will be useful resources for development
 
 # browser extensions
 
-| Name | Description | Link | Chrome | Firefox |
-| :---:        |     :---:     |   :---: | |   :---: | |   :---: |
-| Wappalyzer | Find out the technology stack of any website.| [Wappalyzer](https://www.wappalyzer.com/) |[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)|[Wappalyzer](https://addons.mozilla.org/firefox/addon/wappalyzer/) |
+| Name | Description | Link |
+| :---:        |     :---:     |   :---: | 
+| Wappalyzer | Find out the technology stack of any website.| [Wappalyzer](https://www.wappalyzer.com/) |
