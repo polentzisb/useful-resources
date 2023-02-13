@@ -19,6 +19,8 @@ In this repository will be useful resources for development
 | Zdog | Round, flat, designer-friendly pseudo-3D engine for canvas & SVG.| [Zdog](https://zzz.dog/) |
 | three.js | Easy to use, lightweight, cross-browser, general purpose 3D library.| [three.js](https://threejs.org/) |
 | Eleventy | Eleventy, a simpler static site generator.| [11ty](https://www.11ty.dev/) |
+| Chart.js | Simple yet flexible JavaScript charting library for the modern web. | [Chart.js](https://www.chartjs.org/) |
+
 
 
 
