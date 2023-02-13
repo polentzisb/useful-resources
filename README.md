@@ -71,3 +71,4 @@ In this repository will be useful resources for development
 | React Developer Tools | DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies.| [RDT](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
 | EditThisCookie | EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!| [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) |
 | Lightshot | Simple and convenient screenshot tool. Select an area, edit your screenshot and upload it to the server. | [Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp) |
+| Session Buddy | Manage Browser Tabs and Bookmarks with Ease.|[SessionBuddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en)|
