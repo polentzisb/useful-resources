@@ -67,3 +67,4 @@ In this repository will be useful resources for development
 | CSSViewer | A simple CSS property viewer.| [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en) |
 | ColorZilla | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies. | [ColorZilla](https://www.colorzilla.com/) |
 |WhatFont | The easiest way to identify fonts on web pages. | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |
+| Window Resizer | Resize the browser window to emulate various screen resolutions.| [WindowResizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) |
