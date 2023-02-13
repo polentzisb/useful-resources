@@ -39,6 +39,7 @@ In this repository will be useful resources for development
 | fffuel | fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds | [fffuel](https://fffuel.co/)|
 | Tabbied | Doodle with generated patterns | [Tabbied](https://tabbied.com/)|
 | Icons8 | Doodle with generated patterns | [Icons8](https://tabbied.com/)|
+| Mockusp-design | Free Mockups to use. | [Mockups-Design](https://mockups-design.com/)|
 
 
 
