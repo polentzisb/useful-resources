@@ -62,6 +62,7 @@ In this repository will be useful resources for development
 | Dribbble | Dribbble is an online community for showcasing user-made artwork. | [Dribbble](https://dribbble.com/)|
 | The Style of Scarcity | A catalogue of the world’s most prestigious brands. | [The Style of Scarcity](https://www.styleofscarcity.com/)|
 | SassLandingPage |  Landing pages examples created by top-class SaaS companies. | [sassLanding](https://saaslandingpage.com/)|
+| ScreenLane | The latest mobile UI design inspiration in your inbox every week. | [ScreenLane](https://screenlane.com/)|
 
 
 
