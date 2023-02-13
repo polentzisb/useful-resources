@@ -61,6 +61,8 @@ In this repository will be useful resources for development
 | Behance | Online platform to showcase & discover creative work.  | [Behance](https://www.behance.net/)|
 | Dribbble | Dribbble is an online community for showcasing user-made artwork. | [Dribbble](https://dribbble.com/)|
 | The Style of Scarcity | A catalogue of the world’s most prestigious brands. | [The Style of Scarcity](https://www.styleofscarcity.com/)|
+| SassLandingPage |  Landing pages examples created by top-class SaaS companies. | [sassLanding](https://saaslandingpage.com/)|
+
 
 
 
