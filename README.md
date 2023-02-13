@@ -36,6 +36,8 @@ In this repository will be useful resources for development
 | ColorHunt | Color Palettes-Popular-Random-Collection | [ColorHunt](https://colorhunt.co/)|
 | fffuel | fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds | [fffuel](https://fffuel.co/)|
 | Tabbied | Doodle with generated patterns | [Tabbied](https://tabbied.com/)|
+| Icons8 | Doodle with generated patterns | [Icons8](https://tabbied.com/)|
+
 
 
 
@@ -72,7 +74,7 @@ In this repository will be useful resources for development
 | ColorZilla | Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies. | [ColorZilla](https://www.colorzilla.com/) |
 |WhatFont | The easiest way to identify fonts on web pages. | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |
 | Window Resizer | Resize the browser window to emulate various screen resolutions.| [WindowResizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) |
-| React Developer Tools | DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies.| [RDT](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
-| EditThisCookie | EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!| [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) |
-| Lightshot | Simple and convenient screenshot tool. Select an area, edit your screenshot and upload it to the server. | [Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp) |
+| React Developer Tools | DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies.| [RDT](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=es) |
+| EditThisCookie | EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!| [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en) |
+| Lightshot | Simple and convenient screenshot tool. Select an area, edit your screenshot and upload it to the server. | [Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp?hl=en) |
 | Session Buddy | Manage Browser Tabs and Bookmarks with Ease.|[SessionBuddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en)|
