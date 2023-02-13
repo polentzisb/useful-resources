@@ -92,4 +92,6 @@ In this repository will be useful resources for development
 | :---:        |     :---:     |   :---: | 
 | render | Render is a unified cloud to build and run all your apps and websites.| [render](https://render.com/) |
 | Netlify | The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web..| [Netlify](https://www.netlify.com/) |
+| Railway | Railway is the cloud that takes the complexity out of shipping software. | [Railway](https://railway.app/) |
+| Vercel | Vercel is a cloud platform that enables developers to host websites and web services.| [Vercel](https://vercel.com/) |
 
