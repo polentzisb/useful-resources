@@ -90,4 +90,6 @@ In this repository will be useful resources for development
 
 | Name | Description | Link |
 | :---:        |     :---:     |   :---: | 
-| Wappalyzer | Find out the technology stack of any website.| [Wappalyzer](https://www.wappalyzer.com/) |
+| render | Render is a unified cloud to build and run all your apps and websites.| [render](https://render.com/) |
+| Netlify | The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web..| [Netlify](https://www.netlify.com/) |
+
