@@ -17,6 +17,7 @@ In this repository will be useful resources for development
 | Framer Motion |Framer Motion is a animation library. A production-ready motion library for React.| [Framer Mortion](https://www.framer.com/motion/)|
 | animejs |Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.| [animejs](https://animejs.com/)|
 | Zdog | Round, flat, designer-friendly pseudo-3D engine for canvas & SVG.| [Zdog](https://zzz.dog/) |
+| three.js | Easy to use, lightweight, cross-browser, general purpose 3D library.| [three.js](https://threejs.org/) |
 
 
 
