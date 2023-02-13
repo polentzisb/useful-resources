@@ -64,6 +64,10 @@ In this repository will be useful resources for development
 | SassLandingPage |  Landing pages examples created by top-class SaaS companies. | [sassLanding](https://saaslandingpage.com/)|
 | ScreenLane | The latest mobile UI design inspiration in your inbox every week. | [ScreenLane](https://screenlane.com/)|
 | httpster | Web design inspiration from all over the world. | [httpster](https://httpster.net/)|
+| DesignVault | Design Inspiration & UI Patterns From Real Products. | [DesignVault](https://designvault.io/)|
+| the component gallery | Reference for anyone building component-based user interfaces | [the component gallery](https://component.gallery/)|
+| httpster | Web design inspiration from all over the world. | [httpster](https://httpster.net/)|
+| httpster | Web design inspiration from all over the world. | [httpster](https://httpster.net/)|
 
 
 
