@@ -69,3 +69,4 @@ In this repository will be useful resources for development
 |WhatFont | The easiest way to identify fonts on web pages. | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |
 | Window Resizer | Resize the browser window to emulate various screen resolutions.| [WindowResizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) |
 | React Developer Tools | DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies.| [RDT](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) |
+| EditThisCookie | EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!| [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) |
