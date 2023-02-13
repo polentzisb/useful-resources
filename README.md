@@ -63,8 +63,7 @@ In this repository will be useful resources for development
 | The Style of Scarcity | A catalogue of the world’s most prestigious brands. | [The Style of Scarcity](https://www.styleofscarcity.com/)|
 | SassLandingPage |  Landing pages examples created by top-class SaaS companies. | [sassLanding](https://saaslandingpage.com/)|
 | ScreenLane | The latest mobile UI design inspiration in your inbox every week. | [ScreenLane](https://screenlane.com/)|
-
-
+| httpster | Web design inspiration from all over the world. | [httpster](https://httpster.net/)|
 
 
 
