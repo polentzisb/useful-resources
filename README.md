@@ -18,6 +18,7 @@ In this repository will be useful resources for development
 | animejs |Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.| [animejs](https://animejs.com/)|
 | Zdog | Round, flat, designer-friendly pseudo-3D engine for canvas & SVG.| [Zdog](https://zzz.dog/) |
 | three.js | Easy to use, lightweight, cross-browser, general purpose 3D library.| [three.js](https://threejs.org/) |
+| Eleventy | Eleventy, a simpler static site generator.| [11ty](https://www.11ty.dev/) |
 
 
 
