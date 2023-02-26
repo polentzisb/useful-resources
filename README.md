@@ -21,6 +21,7 @@ In this repository you can search useful tools for front end projects.
 | Eleventy | Eleventy, a simpler static site generator.| [11ty](https://www.11ty.dev/) |
 | Chart.js | Simple yet flexible JavaScript charting library for the modern web. | [Chart.js](https://www.chartjs.org/) |
 | Leaflet | an open-source JavaScript library for mobile-friendly interactive maps. | [Leaflet](https://leafletjs.com/) |
+| CesiumJS | Open source JavaScript library for creating world-class 3D globes and maps with the best possible performance, precision, visual quality, and ease of use. | [CesiumJS](https://cesium.com/platform/cesiumjs/) |
 
 
 
