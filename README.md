@@ -1,5 +1,5 @@
 # useful-resources :star2:
-In this repository will be useful resources for development
+In this repository you can search useful tools for front end projects. 
 
 *UNDER CONSTRUCTION
 
