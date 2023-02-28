@@ -3,7 +3,7 @@ In this repository you can search useful tools for front end projects.
 
 *UNDER CONSTRUCTION
 
-# UI Libraries
+# UI libraries
 
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
@@ -95,6 +95,7 @@ In this repository you can search useful tools for front end projects.
 | CSS Grid Overlay | Easily check the grid alignment of your page across breakpoints. | [CSS Grid Overlay](https://chrome.google.com/webstore/detail/css-grid-overlay/hajfilceeneohkmcakehndmaeonhlack?hl=en) |
 | svg-grabber | A tool to quickly preview and get all the svg assets from a website. | [svg-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) |
 | GoFullPage | Capture a screenshot of your current page in entirety and reliably. | [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) |
+| Mobile simulator | Smartphone and tablet simulator on computer with several models to test mobile responsive websites. | [Mobile simulator](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) |
 
 # Free Hosting
 
