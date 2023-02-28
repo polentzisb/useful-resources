@@ -94,6 +94,7 @@ In this repository you can search useful tools for front end projects.
 | Session Buddy | Manage Browser Tabs and Bookmarks with Ease.|[SessionBuddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en)|
 | CSS Grid Overlay | Easily check the grid alignment of your page across breakpoints. | [CSS Grid Overlay](https://chrome.google.com/webstore/detail/css-grid-overlay/hajfilceeneohkmcakehndmaeonhlack?hl=en) |
 | svg-grabber | A tool to quickly preview and get all the svg assets from a website. | [svg-grabber](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) |
+| GoFullPage | Capture a screenshot of your current page in entirety and reliably. | [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) |
 
 # Free Hosting
 
