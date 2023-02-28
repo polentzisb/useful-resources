@@ -3,7 +3,7 @@ In this repository you can search useful tools for front end projects.
 
 *UNDER CONSTRUCTION
 
-# UI libraries
+# libraries
 
 | Name | Description | Link |
 | :---:        |     :---:     |        :---: |
@@ -45,7 +45,7 @@ In this repository you can search useful tools for front end projects.
 | Icons8 | Doodle with generated patterns | [Icons8](https://tabbied.com/)|
 | Mockusp-design | Free Mockups to use. | [Mockups-Design](https://mockups-design.com/)|
 | Unsplash | Unsplash is a photo discovery platform for free to use, high-definition photos. | [Unsplash](https://unsplash.com)|
-
+| Fontshare | Fontshare is a free fonts service. | [Fontshare](https://www.fontshare.com/)|
 
 
 
