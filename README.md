@@ -93,6 +93,7 @@ In this repository you can search useful tools for front end projects.
 | Lightshot | Simple and convenient screenshot tool. Select an area, edit your screenshot and upload it to the server. | [Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp?hl=en) |
 | Session Buddy | Manage Browser Tabs and Bookmarks with Ease.|[SessionBuddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en)|
 | CSS Grid Overlay | Easily check the grid alignment of your page across breakpoints. | [CSS Grid Overlay](https://chrome.google.com/webstore/detail/css-grid-overlay/hajfilceeneohkmcakehndmaeonhlack?hl=en) |
+| svg-grabber | A tool to quickly preview and get all the svg assets from a website. | [CSS Grid Overlay](https://chrome.google.com/webstore/detail/svg-grabber-get-all-the-s/ndakggdliegnegeclmfgodmgemdokdmg) |
 
 # Free Hosting
 
